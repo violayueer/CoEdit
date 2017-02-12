@@ -18,7 +18,9 @@ TODOs:
 
 
 
-References:
+Credits:
+
+https://github.com/Operational-Transformation/ot.js
 
 https://operational-transformation.github.io/index.html
 
